@@ -29,12 +29,12 @@ const products: Product[] = [
     image: '/images/Asset 2verite.webp',
     price: 500,
   },
-  {
-    id: 'Producto 4',
-    name: 'Producto 4',
-    image: '/images/Asset 2verite.webp',
-    price: 500,
-  },
+  // {
+  //   id: 'Producto 4',
+  //   name: 'Producto 4',
+  //   image: '/images/Asset 2verite.webp',
+  //   price: 500,
+  // },
 ];
 
 export default function ProductsCarousel() {
